@@ -1,0 +1,132 @@
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\ApplicationInsights.config
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\csc.exe
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\vbc.exe
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\ContosoUniversity.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Web.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Razor.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\WebGrease.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Web.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.Razor.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\EntityFramework.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\EntityFramework.xml
+D:\新建文件夹 (2)\MVC12.30作业\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\ApplicationInsights.config
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\csc.exe
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\vbc.exe
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\ContosoUniversity.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\EntityFramework.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Web.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Razor.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\WebGrease.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\EntityFramework.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.Web.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.Razor.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\PagedList.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\PagedList.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\ls\MvcMovie\MvcMovie\ContosoUniversity\bin\JsonObject.dll

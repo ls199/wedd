@@ -1,0 +1,23 @@
+﻿@model WebApplication1.Models.Employee
+@{
+    ViewBag.Title = "Edit";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div> 
+        <h2></h2>
+        <form action="/employee/Edit" method="post">
+            姓名：<input type="text" name="Name"value="@Model.Name">
+            工资：<input type="text" name="Salary"value="@Model.Salary">
+            <input type="hidden" name="EmployeeID"value="@Model.EmployeeID">
+            <input type="submit" value="更新"><input type="reset" value="取消">
+        </form>
+    </div>
+</body>
+</html>
