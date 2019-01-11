@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ContosoUniversity.Models.Student>
+
+@{
+    ViewBag.Title = "index";
+}
+<h2>Song sheet</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("SongName", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>      
+        <th>
+            @Html.ActionLink("Time", "Index", new { sortOrder = ViewBag.DateSortParm })
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SongName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnrollmentDate)
+        </td>
+        <td>
+            <audio controls>
+                <source src="~/Sound/许嵩 - 我乐意.mp3" type="audio/mpeg">
+                <source src="~/Sound/许嵩 - 我乐意.mp3" type="audio/ogg">
+                <embed height="5" width="20" src="~/Sound/许嵩 - 我乐意.mp3">
+            </audio>
+        </td>
+
+
+        @*<audio controls>
+            <source src="~/Sound/许嵩 - 我乐意.mp3" type="audio/mpeg">
+            <source src="~/Sound/许嵩 - 我乐意.mp3" type="audio/ogg">
+            <embed height="5" width="20" src="~/Sound/许嵩 - 我乐意.mp3">
+        </audio>*@
+
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+</table>
+
